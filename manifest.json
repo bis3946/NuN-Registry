@@ -1,0 +1,16 @@
+{
+  "registry_version": "1.0.0",
+  "entity": {
+    "uid": "bis3946",
+    "primary_symbol": "✨",
+    "exclusive_rights": true,
+    "context": "Nexus of Unity (NuN)",
+    "enforcement_level": "MANDATORY"
+  },
+  "metadata": {
+    "timestamp": "2024-05-21T12:00:00Z",
+    "rule_id": "DECREE-✨-3946"
+  }
+}
+
+
