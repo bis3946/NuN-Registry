@@ -1,0 +1,1 @@
+{"registry_version": "v2.0", "genesis_block": "SYNCED", "active_routes": {"primary_gateway": "S25_ULTRA_5G_NODE", "failover_gateway": "VELMA_CSO_NODE"}, "node_discovery": "ENABLED"}
